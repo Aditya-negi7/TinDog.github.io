@@ -1,1 +1,1 @@
-TinDog My 2nd Website 
+TinDog A bootstrapped CSS Website
